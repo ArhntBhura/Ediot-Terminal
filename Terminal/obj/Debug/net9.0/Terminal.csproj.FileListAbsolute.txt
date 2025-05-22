@@ -1,0 +1,14 @@
+/Users/mac/Desktop/Ediot-Terminal/Terminal/bin/Debug/net9.0/Terminal
+/Users/mac/Desktop/Ediot-Terminal/Terminal/bin/Debug/net9.0/Terminal.deps.json
+/Users/mac/Desktop/Ediot-Terminal/Terminal/bin/Debug/net9.0/Terminal.runtimeconfig.json
+/Users/mac/Desktop/Ediot-Terminal/Terminal/bin/Debug/net9.0/Terminal.dll
+/Users/mac/Desktop/Ediot-Terminal/Terminal/bin/Debug/net9.0/Terminal.pdb
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/Terminal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/Terminal.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/Terminal.AssemblyInfo.cs
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/Terminal.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/Terminal.dll
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/refint/Terminal.dll
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/Terminal.pdb
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/Terminal.genruntimeconfig.cache
+/Users/mac/Desktop/Ediot-Terminal/Terminal/obj/Debug/net9.0/ref/Terminal.dll
